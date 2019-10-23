@@ -10,6 +10,7 @@ public class CheckPassFail {  // Save as "CheckPassFail.java"
         } else {
             System.out.println( "FAIL" );
         }
+        //Comments//
         
         System.out.println( "done" );
     }
