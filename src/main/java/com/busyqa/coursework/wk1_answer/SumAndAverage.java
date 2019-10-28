@@ -8,9 +8,9 @@ public class SumAndAverage {
         int upperbound = 100; // The upperbound to sum
 
         // Use a for-loop to sum from lowerbound to upperbound
-        for (int number = lowerbound; number <= upperbound; ++number) {
-            sum += number;     // same as "sum = sum + number"
-        }
+//        for (int ? = ?; ? <= ?; ++?) {
+//
+//        }
         // Compute average in double. Beware that int/int produces int.
         // Print sum and average.
     }
