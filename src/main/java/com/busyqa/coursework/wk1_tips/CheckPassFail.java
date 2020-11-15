@@ -11,7 +11,7 @@ public class CheckPassFail {  // Save as "CheckPassFail.java"
             System.out.println( "FAIL" );
         }
         //Comments//
-        
+
         System.out.println( "done" );
     }
 }

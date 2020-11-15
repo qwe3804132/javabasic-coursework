@@ -1,5 +1,6 @@
 package com.busyqa.coursework.wk1_answer;
 
+@SuppressWarnings("unused")
 public class PrintNumberInWord {
     public static void main(String[] args) {
         int number = 5;  // Set the value of "number" here!

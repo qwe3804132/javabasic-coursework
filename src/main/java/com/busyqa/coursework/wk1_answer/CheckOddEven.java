@@ -10,7 +10,5 @@ public class CheckOddEven {
 //            System.out.println( ...... );
 //        }
 //        System.out.println( ...... );
-         
-         //Hello busyaQA
     }
 }

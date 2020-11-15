@@ -1,5 +1,6 @@
 package com.busyqa.coursework.wk1_answer;
 
+@SuppressWarnings("unused")
 public class SumAndAverage {
     public static void main (String[] args) {
         int sum = 0;          // Store the accumulated sum, init to 0

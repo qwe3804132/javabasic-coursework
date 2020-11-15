@@ -2,7 +2,6 @@ package com.busyqa.coursework.wk2_tips;
 
 public class Book {
 
-
     /* Instance Variables */
 
     private String title;
@@ -45,5 +44,4 @@ public class Book {
     public String toString() {
         return this.title + " by " + this.author.getFirstName() + " " + this.author.getLastName() + " for $" + this.price;
     }
-
 }
