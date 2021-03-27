@@ -9,7 +9,7 @@ public class SumAndAverage {
         int upperbound = 100; // The upperbound to sum
 
         // Use a for-loop to sum from lowerbound to upperbound
-//        for (int ? = ?; ? <= ?; ++?) {
+//        for (int ? = ?; ? <= ?; ++?) {zxc
 //
 //        }
         // Compute average in double. Beware that int/int produces int.
